@@ -1,0 +1,9 @@
+Как использовать консоль в Windows
+
+https://nicothin.pro/page/console-windows
+
+cmder - деление экрана
+https://isqua.ru/blog/2016/11/05/nastroika-tierminala-cmder-v-windows/
+
+cmder - команды
+https://www.youtube.com/watch?v=ZC5yCHSdpXg
